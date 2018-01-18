@@ -14,9 +14,9 @@ I'm Sharique MN , pursuing mechanical engineering at [MESCE](www.mesce.ac.in/) k
     - Product Development
   
 # Syllabus
-      - First day - Introdution to Fablab
+      - First day  - Introdution to Fablab
       - Second day - Introduction to 123D
-      - Third day - Documentation software and working on 123D
+      - Third day  - Documentation software and working on 123D
       - Fourth day -
 
   
