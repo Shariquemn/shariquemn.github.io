@@ -1,17 +1,12 @@
 ## About Me
-Im Sharique, from S6 ME, an engineering student pursuing my Btech in MES College Of Engineering.
-<img src=”602512016.JPG.JPG” alt=”123” “height=”100” “width=100”>
-## About Me
-I'm Sachin Ghosh AP, pursuing mechanical engineering at [MESCE](www.mesce.ac.in/) kuttippuram.
-  
-# Contact Me
-   
+I'm Sharique MN , pursuing mechanical engineering at [MESCE](www.mesce.ac.in/) kuttippuram.
+     
 ## Email
-     -sachinghoshap@gmail.com
+     -mnsharique@gmail.com
     
        
 ## Phone 
-     - 8089317188
+     - 9446682447
        
 # My Interest
     - Automobiles
